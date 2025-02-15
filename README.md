@@ -16,7 +16,7 @@
 🚀 Exploring Java & Full-Stack Development
 
 
-🌟 Ongoing Projects
+🌟 Projects
 
 🔹 Budget Tracker (Web Application) – A tool to manage daily expenses efficiently. Users can record, view, and edit spending history while getting a financial overview. Built with HTML, CSS, and JavaScript for seamless functionality.
 
